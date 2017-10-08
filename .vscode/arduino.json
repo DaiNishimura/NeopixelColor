@@ -1,0 +1,5 @@
+{
+    "sketch": "NeopixcelColor.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM4"
+}
